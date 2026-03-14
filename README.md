@@ -4,11 +4,10 @@ A full-stack intake and dispatch system for appliance repair companies servicing
 
 ## Live Demo
 
-[fixflow-intake.vercel.app](https://fixflow-intake.vercel.app)
+[fixflow-intake.vercel.app](https://fixflow-intake.vercel.app) 
 
-> Each property manager gets a unique dispatch URL (e.g., `/dispatch/alpha-properties`)
+> Each property manager gets a unique dispatch URL (you could add, `/dispatch/alpha-properties`, for testing purposes)
 
-[fixflow-intake.vercel.app](https://fixflow-intake.vercel.app/dispatch/alpha-properties)
 
 ## Features
 
