@@ -8,6 +8,8 @@ A full-stack intake and dispatch system for appliance repair companies servicing
 
 > Each property manager gets a unique dispatch URL (e.g., `/dispatch/alpha-properties`)
 
+[fixflow-intake.vercel.app](https://fixflow-intake.vercel.app/dispatch/alpha-properties)
+
 ## Features
 
 - **Multi-Tenant Dispatch Portals** — Each property manager gets a branded, slug-based intake URL
