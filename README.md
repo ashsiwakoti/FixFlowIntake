@@ -8,7 +8,6 @@ A full-stack intake and dispatch system for appliance repair companies servicing
 
 > Each property manager gets a unique dispatch URL (you could add, `/dispatch/alpha-properties`, for testing purposes)
 
-
 ## Features
 
 - **Multi-Tenant Dispatch Portals** — Each property manager gets a branded, slug-based intake URL
@@ -58,8 +57,8 @@ A full-stack intake and dispatch system for appliance repair companies servicing
 ## Screenshots
 
 <!-- Add screenshots here -->
-![Intake Form](screenshots/intake-form.png)
-![Success Page](screenshots/success.png)
+![Intake Form](screenshots/screenshots:intake-form.png)
+![Success Page](screenshots/screenshots:success.png)
 
 ## How It Works
 
